@@ -50,7 +50,6 @@ python -m streamlit run app.py
 ```
 
 ## رابط التطبيق
-سيتم إضافته بعد النشر على Streamlit Cloud.
-
+https://smart-food-delivery-aag6wbwxey6nyo87kmaiia.streamlit.app/
 ## رابط المستودع
 https://github.com/rhf433567-commits/Smart-Food-Delivery
